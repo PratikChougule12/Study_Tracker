@@ -33,13 +33,13 @@ cd study-tracker
 ### 2. Compile
 
 ```bash
-javac program902.java
+javac StudyTrackerApp.java
 ```
 
 ### 3. Run
 
 ```bash
-java program902
+java StudyTrackerApp
 ```
 
 ---
@@ -62,7 +62,7 @@ java program902
 ```
 study-tracker/
 │
-├── program902.java        # Main source file (contains all classes)
+├── StudyTrackerApp.java        # Main source file (contains all classes)
 └── README.md
 ```
 
@@ -72,7 +72,7 @@ study-tracker/
 |-------|----------------|
 | `StudyLog` | Model class — stores date, subject, duration, and description for one session |
 | `StudyTracker` | Service class — manages the list of logs and all operations (insert, display, export, summarize) |
-| `program902` | Entry point — runs the interactive menu loop |
+| `StudyTrackerApp` | Entry point — runs the interactive menu loop |
 
 ---
 
@@ -134,5 +134,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Made with ❤️ by **[Your Name]**  
-GitHub: [@your-username](https://github.com/your-username)
+Made with ❤️ by **Pratik**  
+GitHub: [@your-username](https://github.com/PratikChougule12)
