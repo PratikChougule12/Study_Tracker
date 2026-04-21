@@ -26,7 +26,7 @@ A simple command-line Java application to help students log, track, and analyze 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/study-tracker.git
+git clone https://github.com/PratikChougule12/study-tracker.git
 cd study-tracker
 ```
 
