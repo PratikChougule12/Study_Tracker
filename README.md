@@ -135,4 +135,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 Made with ❤️ by **Pratik**  
-GitHub: [@your-username](https://github.com/PratikChougule12)
+GitHub: [@PratikChougule12](https://github.com/PratikChougule12)
